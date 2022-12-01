@@ -10,6 +10,14 @@
       "StackName": "amplify-xrpm8-dev-112803",
       "StackId": "arn:aws:cloudformation:ap-southeast-1:272653032249:stack/amplify-xrpm8-dev-112803/1fa34190-713d-11ed-a358-0640e8241554",
       "AmplifyAppId": "d2b10kxr5xyvki"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2b10kxr5xyvki",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
